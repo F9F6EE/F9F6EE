@@ -2,11 +2,12 @@
 - 👀 I’m interested in design
 - 🌱 I’m currently learning front-end development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on [Bento](bento.me/-mick
+ )
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-## Main tech stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs)](https://skillicons.dev)
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,flutter&perline=4)](https://skillicons.dev)
 
 <!---
 F9F6EE/F9F6EE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
