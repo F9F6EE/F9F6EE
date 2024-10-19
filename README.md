@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @F9F6EE
-- 👀 I’m interested in design
-- 🌱 I’m currently learning front-end development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on [Bento](bento.me/-mick
- )
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## My skills
+### Hi, I'm Mick 
+✨ Designer learning to full-stack developement <br>
+👀 I’m interested in design <br>
+🌱 I’m currently learning front-end development <br>
+📫 Reach me on [Bento](bento.me/-mick
+ )<br>
+
+### My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,flutter&perline=4)](https://skillicons.dev)
 
 <!---
