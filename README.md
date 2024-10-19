@@ -2,7 +2,7 @@
 ✨ Designer learning to full-stack developement <br>
 👀 I’m interested in design <br>
 🌱 I’m currently learning front-end development <br>
-📫 Reach me on [Bento](https//:bento.me/-mick)<br>
+📫 Reach me on [Bento](https://bento.me/-mick)<br>
 
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,flutter&perline=4)](https://skillicons.dev)
